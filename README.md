@@ -9,7 +9,7 @@ How to create a simple GUI app for managing your data. The created app must have
 # Overview : Simple App for update sales
 เป็นโปรแกรมอย่างง่ายที่บันทึกข้อมูลยอดขายรายเดือนโดยภาพรวมการทำงานมีดังนี้
 
-1. Menu Bar แบ่งเป็น 2 แถบ คือ File และ Exit
+#### 1. Menu Bar แบ่งเป็น 2 แถบ คือ File และ Exit
    1.1 File แบ่งเป็น Create sales และ Delete sales
    ![Picture1](https://user-images.githubusercontent.com/115800837/204842070-7d4b7af4-f564-4cdf-b8e2-0deac81fb5ce.png)
    
