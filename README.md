@@ -147,7 +147,7 @@ if __name__ == '__main__':
 ```
 
 # Video Presentation
-Link : https://www.canva.com/design/DAFTV9FZXt4/OXzlodzFFATZhXNbQyyV_g/edit?utm_content=DAFTV9FZXt4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+   Link : https://www.canva.com/design/DAFTV9FZXt4/OXzlodzFFATZhXNbQyyV_g/watch?utm_content=DAFTV9FZXt4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Challenge
 - แสดงข้อมูลที่มีรายละเอียดได้มากกว่านี้เช่น รวมข้อมูลเป็นรายวันและสรุปเป็นรายเดือนปี รวมถึงการทำ visualization ต่างๆ แต่เนื่องจากยังไม่ชำนาญในการแปลงเป็น code จึงทำให้ใช้เวลาค่อนข้างนาน จะพยายามฝึกฝนให้ชำนาญมากขึ้นเพื่อนำไปใช้ประโยชน์ได้ดีขึ้นค่ะ 
