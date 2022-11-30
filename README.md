@@ -11,9 +11,11 @@ How to create a simple GUI app for managing your data. The created app must have
 
 #### 1. Menu Bar แบ่งเป็น 2 แถบ คือ File และ Exit
    1.1 File แบ่งเป็น Create sales และ Delete sales
+   
    ![Picture1](https://user-images.githubusercontent.com/115800837/204842070-7d4b7af4-f564-4cdf-b8e2-0deac81fb5ce.png)
    
    1.2 Exit จะมี Quit เป็นทางออกอีกทางนอกจาก เครื่องหมายปิด x ด้านบนด้านขวาของหน้าต่าง
+   
    ![Picture2](https://user-images.githubusercontent.com/115800837/204842089-14c1da4f-fc2e-48f4-92d0-8a7f3e1adad0.png)
 
 
