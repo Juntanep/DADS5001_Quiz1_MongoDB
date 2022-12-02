@@ -123,10 +123,8 @@ def main():
     layout = [[sg.Menu(menu)],
               [sg.Image(r'C:\Users\Windows10\DADS5001\Mongodb_quiz\graph1.png')]]
 
-# Create the Window
     window = sg.Window('Sales 2022', layout)
 
-# Event Loop to process "events" and get the "values" of the inputs
     while True:
         event, values = window.read()
         if event == sg.WIN_CLOSED or event == 'Quit':
